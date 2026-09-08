@@ -1,5 +1,0 @@
-C:/Users/Administrator/Practice-2026/build/CMakeFiles/LibrarySystem.dir
-C:/Users/Administrator/Practice-2026/build/CMakeFiles/edit_cache.dir
-C:/Users/Administrator/Practice-2026/build/CMakeFiles/rebuild_cache.dir
-C:/Users/Administrator/Practice-2026/build/CMakeFiles/LibrarySystem_autogen_timestamp_deps.dir
-C:/Users/Administrator/Practice-2026/build/CMakeFiles/LibrarySystem_autogen.dir
